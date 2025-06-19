@@ -1,4 +1,4 @@
-## 📌 **Capstone Project Assignment **
+## 📌 Capstone Project Assignment
 
 ### 🧠 **Project Title:**
 

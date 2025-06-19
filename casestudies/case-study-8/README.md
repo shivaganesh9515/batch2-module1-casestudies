@@ -1,4 +1,4 @@
-## 📌 **Capstone Project Assignment Template**
+## 📌 Capstone Project Assignment
 
 ### 🧠 **Project Title:**
 
