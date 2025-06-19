@@ -83,3 +83,65 @@ Create an intelligent inventory checker that evaluates product stock levels agai
 | 🎁 Bonus Integration (ERP CSV I/O)    | 5%        | Realistic integration with ERP-style formats      |
 
 ---
+
+```
+// 📁 inventory-risk-analyzer/
+// ├── data/
+// │ ├── stock.csv
+// │ └── sales.csv
+// ├── rules/
+// │ └── rules.json
+// ├── src/
+// │ ├── index.js
+// │ ├── loader.js
+// │ ├── analyzer.js
+// │ └── utils.js
+// ├── output/
+// │ └── risk_report.csv
+// ├── README.md
+// └── package.json
+```
+
+# 📦 Inventory Risk Analyzer (JS Version)
+
+Analyze inventory risk using sales data and buffer rules. Pure JavaScript, no ML.
+
+## 🚀 How to Run
+
+```bash
+npm install
+node src/index.js
+```
+
+## 📂 File Inputs
+
+- `data/stock.csv` — SKU, Stock
+- `data/sales.csv` — SKU, Quantity, Date
+
+## 📄 Output
+
+- `output/risk_report.csv`
+
+## 🔧 Rules
+
+- Defined in `rules/rules.json`
+
+## 📊 Risk Levels
+
+- ✅ Low Risk
+- ⚠️ Medium Risk
+- ❌ High Risk
+
+---
+
+✅ GitHub starter template for **Inventory Risk Analyzer (JavaScript)** has been created. It includes:
+
+- 📁 File structure with:
+
+  - `src/` code files for logic, loaders, utils
+  - `data/` and `output/` directories
+  - `rules/` for configurable JSON rules
+
+- 🧠 DSA usage: HashMaps, Arrays, and sliding window logic (Queues)
+- 📄 `README.md` with usage instructions
+- 📤 CSV I/O integration simulating ERP behavior

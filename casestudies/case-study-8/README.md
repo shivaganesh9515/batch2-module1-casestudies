@@ -78,3 +78,20 @@ Develop a rule-based document analyzer that parses legal contracts to identify t
 | 🎁 Bonus Features (Clause Tree, Undo) | 5%        | Extras like document hierarchy view or interactive review   |
 
 ---
+
+```
+contract-intelligence-validator/
+├── data/
+│   └── sample_contract.txt
+├── output/
+│   └── report.txt
+├── rules/
+│   └── rules.json
+├── src/
+│   ├── index.js
+│   ├── parser.js
+│   ├── rules.js
+│   └── report.js
+├── package.json
+└── README.md
+```
