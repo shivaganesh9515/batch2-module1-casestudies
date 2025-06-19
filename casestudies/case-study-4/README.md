@@ -1,6 +1,4 @@
----
-## 🧠 **Capstone Project 4: Intelligent Product Search Engine (Offline Ranked Search)**
----
+## 🧠 Capstone Project 4: Intelligent Product Search Engine (Offline Ranked Search)\*\*
 
 ### 📌 **Problem Statement**
 
