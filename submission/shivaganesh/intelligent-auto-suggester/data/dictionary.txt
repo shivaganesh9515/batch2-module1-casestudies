@@ -1,0 +1,10 @@
+apple 30
+application 15
+apply 10
+appetite 5
+applicant 8
+banana 12
+book 20
+bookmark 7
+builder 4
+build 13 

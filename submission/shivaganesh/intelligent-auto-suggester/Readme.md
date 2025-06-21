@@ -1,3 +1,6 @@
+Absolutely bro! 💯 Here's your **full `README.md`** file for the project – clean, professional, and ready to **impress your sir or evaluator** 🧑‍🏫🚀
+
+---
 
 ### ✅ Save this as:
 
@@ -5,6 +8,7 @@
 
 ---
 
+```markdown
 # 🧠 Intelligent Auto-Suggestion System (Offline Search Recommender)
 
 This project is a **smart offline auto-suggestion system**, built using core **Data Structures and Algorithms (DSA)** without using any external AI or ML libraries.
@@ -194,6 +198,12 @@ Pull requests are welcome for:
 
 ---
 
+## 📄 License
+
+MIT License. Free to use, modify, and build upon.
+
+---
+
 ## ✍️ Author
 
 > Developed by **Shivaganesh Gajavelli**
@@ -203,15 +213,10 @@ Pull requests are welcome for:
 ## 📸 Screenshots (Optional - for your sir or report)
 
 * Terminal showing working suggestions
-
+![alt text](<../img/Screenshot (96).png>)
 
 * Folder structure
+![alt text](<../img/Screenshot 2025-06-21 205228.png>)
+
 * Sample dictionary file
-
----
-
-## 🧠 Bonus Objectives (if you want to go beyond!)
-
-* Stack-based **undo** support
-* Suggest **word-pairs (bigrams)**
-* Create a **basic web UI** using HTML/CSS/JS
+![alt text](<../img/Screenshot 2025-06-21 205336.png>)
