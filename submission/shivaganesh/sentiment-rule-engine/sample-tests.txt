@@ -1,0 +1,17 @@
+The food was not bad => Positive
+Service was slow and terrible => Negative
+It was okay => Neutral
+The experience was very good => Positive
+The product is not good => Negative
+The movie was not great => Negative
+The day was amazing => Positive
+It is not terrible => Positive
+I never liked the service => Negative
+The UI was simple but the UX was horrible => Negative
+
+
+sentiment-rule-engine/
+├── sentiment-classifier.js
+├── sentiment.json
+├── sample-tests.txt ✅
+└── README.md

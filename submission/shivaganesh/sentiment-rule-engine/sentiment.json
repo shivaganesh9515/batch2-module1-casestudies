@@ -1,0 +1,6 @@
+{
+  "positive": ["good", "great", "excellent", "amazing", "happy"],
+  "negative": ["bad", "terrible", "sad", "slow", "poor"],
+  "negations": ["not", "never", "no"],
+  "conjunctions": ["but", "however"]
+}
