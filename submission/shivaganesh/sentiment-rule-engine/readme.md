@@ -1,4 +1,4 @@
-## 📘 Sentiment Classifier with Custom Rule Engine (No ML)
+## 📘 Sentiment Classifier with Custom Rule Engine (No ML)   
 
 ### 📌 Project Title:
 
@@ -146,3 +146,6 @@ The UI was simple but the UX was horrible => Negative
 
 ---
 
+## 👨‍💻 Author
+
+Developed by [Shivaganesh Gajavelli](https://github.com/shivaganesh9515)

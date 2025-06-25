@@ -204,9 +204,9 @@ MIT License. Free to use, modify, and build upon.
 
 ---
 
-## ✍️ Author
+## 👨‍💻 Author
 
-> Developed by **Shivaganesh Gajavelli**
+Developed by [Shivaganesh Gajavelli](https://github.com/shivaganesh9515)
 
 ---
 
